@@ -132,7 +132,7 @@ if (is_logged_in()) {
   <div class="login-box">
     <img src="https://slaosai.com/img/logo-slaosai.gif" alt="SLAOSAI">
     <div class="title">ꜱʟᴀᴏꜱᴀɪ ᴜɴɪᴠᴇʀꜱᴇ</div>
-    <div class="tagline">HANYA SEORANG ANAK YATIM YANG INGIN KAYA</div>
+    <div class="tagline">HANYA SEORANG ANAK YATIM YANG SEDANG BERJUANG</div>
     <form method="post" action="">
       <div class="form-group">
       <input type="password" id="password" name="password" placeholder="Enter Password" required>
