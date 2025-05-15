@@ -1,6 +1,6 @@
 <?php
 /*
-	Author: 	SLAOSAI - SKS-TEAM
+	Author: SLAOSAI - SKS-TEAM
 */
 $GLOBALS['oZgNypoPRU'] = array(
     'username' => 'alfa',
